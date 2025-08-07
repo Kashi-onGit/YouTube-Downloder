@@ -102,3 +102,10 @@ This file lists all the libraries used:
 customtkinter
 yt-dlp
 pillow
+```
+---
+
+## 🧑‍💻 Author
+**Kashi Nath Chourasia**  
+📧 [kashi533864@gmail.com](mailto:kashi533864@gmail.com)  
+[🔗 LinkedIn](https://www.linkedin.com/in/kashi-nath-chourasia-42a39525a)
